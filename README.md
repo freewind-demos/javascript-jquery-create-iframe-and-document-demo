@@ -1,6 +1,10 @@
-Js Hello World Demo
-===================
+JavaScript JQuery Create IFrame and Document Demo
+=================================================
 
-Open `index.html` in your browser.
+如何用JavaScript创建一个iframe，然后再在里面创建其它元素。
 
-You will see "Hello, JS!" on the page.
+```
+npm run demo
+```
+
+![demo](./images/demo.jpg)
